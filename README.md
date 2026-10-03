@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Good Cup Club
 
 A small coffee tasting board built with Flask and SQLite. The coffee list is served by a JSON API, and every vote is committed to the local database.
@@ -23,3 +24,6 @@ python -m unittest discover -s tests
 
 - `GET /api/coffees` returns the coffee list and current vote totals.
 - `POST /api/coffees/<id>/vote` adds one vote and returns the updated total.
+=======
+# Coffee_Rating_Application
+>>>>>>> fea54e0d6a13c519d78caff969a8e18a3b5e17f6
